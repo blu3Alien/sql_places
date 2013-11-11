@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS `wp_counry` (
+CREATE TABLE IF NOT EXISTS `wp_country` (
   `country_id` int(8) NOT NULL AUTO_INCREMENT,
   `country_name` varchar(255) NOT NULL,
   PRIMARY KEY (`country_id`),
